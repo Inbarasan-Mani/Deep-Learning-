@@ -38,11 +38,11 @@ The data released by the SDSS is under public domain. Its taken from the current
 More information about the license: http://www.sdss.org/science/image-gallery/
 
 
-**Aim**:
+# **Aim**:
  To Classify the Stars Based on the given features like Right Ascension angle, Declination angle, Ultraviolet filter in the photometric system, etc., wheather it is galazy, star, or quasar object.
 
 
-**Solution**:
+# **Solution**:
 To Classify such a thing we have dedicated algorithms which will process the data based on the ways of approaches they have, and give the final result as predictions according to patterns.
 
 Basic Classification Algorithms we have is, Logistic Regression, Decision Tree Classifier, Random Forest Classifier, KNearest Neighbors, Support Vectory Machine, etc.,
